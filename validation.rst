@@ -4,7 +4,7 @@
 Validation
 ==========
 
-Validation is a very common task in web applications. Data entered in forms
+Validation is very common task in web applications. Data entered in forms
 needs to be validated. Data also needs to be validated before it is written
 into a database or passed to a web service.
 
